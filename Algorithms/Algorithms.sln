@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperIncreasing", "SuperInc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSearching", "AlphabetSearching\AlphabetSearching.csproj", "{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSoup", "AlphabetSoup\AlphabetSoup.csproj", "{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
