@@ -4,11 +4,11 @@
 	// For each position, if both binary numbers have '1' at that position, '1' should be written; otherwise, '0' should be written.
 
 	// Example Input: Console.WriteLine(BitwiseTwo(new String[] { "100", "000" }));
-	//       Output: 000
+	//        Output: 000
 	// Example Input: Console.WriteLine(BitwiseTwo(new String[] { "10100", "11100" }));
-	//       Output: 10100
+	//        Output: 10100
 	// Example Input: Console.WriteLine(BitwiseTwo(new String[] { "10111", "01101" }));
-	//       Output: 00101
+	//        Output: 00101
 
 	internal class Program
 	{

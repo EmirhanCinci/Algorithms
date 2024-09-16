@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseTwo", "BitwiseTwo\BitwiseTwo.csproj", "{07FB78A7-70C4-4D77-94EF-0337957C0E66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperIncreasing", "SuperIncreasing\SuperIncreasing.csproj", "{1907E547-85D3-46E3-ADC5-140339257636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07FB78A7-70C4-4D77-94EF-0337957C0E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FB78A7-70C4-4D77-94EF-0337957C0E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FB78A7-70C4-4D77-94EF-0337957C0E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1907E547-85D3-46E3-ADC5-140339257636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1907E547-85D3-46E3-ADC5-140339257636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1907E547-85D3-46E3-ADC5-140339257636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1907E547-85D3-46E3-ADC5-140339257636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
