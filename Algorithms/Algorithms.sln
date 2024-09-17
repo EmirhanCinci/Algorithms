@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSetCount", "PowerSetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumbers", "HappyNumbers\HappyNumbers.csproj", "{22DDC956-337F-4D24-93B2-F37167C81BE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNums", "CheckNums\CheckNums.csproj", "{07CEAF45-B744-4D32-B370-62ABA1A00FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{22DDC956-337F-4D24-93B2-F37167C81BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DDC956-337F-4D24-93B2-F37167C81BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DDC956-337F-4D24-93B2-F37167C81BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CEAF45-B744-4D32-B370-62ABA1A00FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CEAF45-B744-4D32-B370-62ABA1A00FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CEAF45-B744-4D32-B370-62ABA1A00FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CEAF45-B744-4D32-B370-62ABA1A00FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

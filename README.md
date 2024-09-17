@@ -14,3 +14,4 @@
 11. [SwapCase](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/SwapCase/Program.cs)
 12. [PowerSetCount](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/PowerSetCount/Program.cs)
 13. [HappyNumbers](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/HappyNumbers/Program.cs)
+14. [CheckNums](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/CheckNums/Program.cs)
