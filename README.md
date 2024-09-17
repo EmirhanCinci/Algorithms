@@ -18,3 +18,6 @@
 15. [Palindrome](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/Palindrome/Program.cs)
 16. [SimpleEvens](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/SimpleEvens/Program.cs)
 17. [ABCheck](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/ABCheck/Program.cs)
+18. [NumberReverse](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/NumberReverse/Program.cs)
+19. [LetterCapitalize](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/LetterCapitalize/Program.cs)
+20. [DashInsert](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/DashInsert/Program.cs)
