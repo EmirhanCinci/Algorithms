@@ -5,13 +5,13 @@
 	// The string will only contain letters and a few punctuation marks as delimiters between words.
 
 	// Example Input: Console.WriteLine(SnakeCase("cats AND*Dogs-are Awesome"));
-	// Example Output: cats_and_dogs_are_awesome
+	//        Output: cats_and_dogs_are_awesome
 
 	// Example Input: Console.WriteLine(SnakeCase("a b c d-e-f%g"));
-	// Example Output: a_b_c_d_e_f_g
+	//        Output: a_b_c_d_e_f_g
 
 	// Example Input: Console.WriteLine(SnakeCase("BOB loves-coding"));
-	// Example Output: bob_loves_coding
+	//        Output: bob_loves_coding
 
 	internal class Program
 	{
