@@ -17,3 +17,4 @@
 14. [CheckNums](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/CheckNums/Program.cs)
 15. [Palindrome](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/Palindrome/Program.cs)
 16. [SimpleEvens](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/SimpleEvens/Program.cs)
+17. [ABCheck](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/ABCheck/Program.cs)

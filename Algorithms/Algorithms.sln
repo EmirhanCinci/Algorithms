@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEvens", "SimpleEvens\SimpleEvens.csproj", "{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCheck", "ABCheck\ABCheck.csproj", "{9DDA3B3E-2424-46ED-B0CC-5009C10159CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDA3B3E-2424-46ED-B0CC-5009C10159CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDA3B3E-2424-46ED-B0CC-5009C10159CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDA3B3E-2424-46ED-B0CC-5009C10159CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDA3B3E-2424-46ED-B0CC-5009C10159CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
