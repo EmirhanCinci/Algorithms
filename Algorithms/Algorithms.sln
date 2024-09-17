@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseTwo", "BitwiseTwo\Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperIncreasing", "SuperIncreasing\SuperIncreasing.csproj", "{1907E547-85D3-46E3-ADC5-140339257636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSearching", "AlphabetSearching\AlphabetSearching.csproj", "{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetSearching", "AlphabetSearching\AlphabetSearching.csproj", "{931DBBA8-06A8-4DBE-AC64-40DB1245DB85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSoup", "AlphabetSoup\AlphabetSoup.csproj", "{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetSoup", "AlphabetSoup\AlphabetSoup.csproj", "{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeCase", "SnakeCase\SnakeCase.csproj", "{9B0AAEC3-8C7D-4188-918B-9F482961769F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B04345-B6EA-4155-88D6-5B4ED65DA8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0AAEC3-8C7D-4188-918B-9F482961769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AAEC3-8C7D-4188-918B-9F482961769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AAEC3-8C7D-4188-918B-9F482961769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AAEC3-8C7D-4188-918B-9F482961769F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
