@@ -11,3 +11,4 @@
 8. [FirstReverse](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/FirstReverse/Program.cs)
 9. [ConsanantCount](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/ConsanantCount/Program.cs)
 10. [TwoSum](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/TwoSum/Program.cs)
+11. [SwapCase](https://github.com/EmirhanCinci/Algorithms/blob/main/Algorithms/SwapCase/Program.cs)
