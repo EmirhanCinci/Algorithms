@@ -23,15 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsanantCount", "Consanant
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{94DE4449-1780-489E-BD94-96AA3361EAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapCase", "SwapCase\SwapCase.csproj", "{16C8681E-704C-42B0-90E2-E45773BE2958}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapCase", "SwapCase\SwapCase.csproj", "{16C8681E-704C-42B0-90E2-E45773BE2958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSetCount", "PowerSetCount\PowerSetCount.csproj", "{AB36728D-0736-4985-A0E9-2E2E82C5AE9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerSetCount", "PowerSetCount\PowerSetCount.csproj", "{AB36728D-0736-4985-A0E9-2E2E82C5AE9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumbers", "HappyNumbers\HappyNumbers.csproj", "{22DDC956-337F-4D24-93B2-F37167C81BE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyNumbers", "HappyNumbers\HappyNumbers.csproj", "{22DDC956-337F-4D24-93B2-F37167C81BE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNums", "CheckNums\CheckNums.csproj", "{07CEAF45-B744-4D32-B370-62ABA1A00FD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckNums", "CheckNums\CheckNums.csproj", "{07CEAF45-B744-4D32-B370-62ABA1A00FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{99D4BE73-2D4A-43CA-9F64-90603394F45E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{99D4BE73-2D4A-43CA-9F64-90603394F45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEvens", "SimpleEvens\SimpleEvens.csproj", "{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{99D4BE73-2D4A-43CA-9F64-90603394F45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D4BE73-2D4A-43CA-9F64-90603394F45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D4BE73-2D4A-43CA-9F64-90603394F45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1C17B2-334A-43E2-9C2F-5C036189F4FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
