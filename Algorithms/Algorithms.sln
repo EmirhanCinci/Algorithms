@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeCase", "SnakeCase\Snak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{4D0D6C78-6713-4E0B-9DE5-43CC81D61A14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstReverse", "FirstReverse\FirstReverse.csproj", "{2DE618DA-4BA5-4B03-9F56-76966186AF70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4D0D6C78-6713-4E0B-9DE5-43CC81D61A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D0D6C78-6713-4E0B-9DE5-43CC81D61A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D0D6C78-6713-4E0B-9DE5-43CC81D61A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE618DA-4BA5-4B03-9F56-76966186AF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE618DA-4BA5-4B03-9F56-76966186AF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE618DA-4BA5-4B03-9F56-76966186AF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE618DA-4BA5-4B03-9F56-76966186AF70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
